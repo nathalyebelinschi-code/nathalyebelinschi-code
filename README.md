@@ -1,4 +1,4 @@
-**# Olá, eu sou a Nathalye 👋
+# Olá, eu sou a Nathalye 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Positivo  
 💼 Experiência com Suporte Técnico N1 e N2 em ambientes SaaS  
@@ -41,8 +41,8 @@ Recentemente, concluí a certificação **Backend Java com Spring AI pela NTT DA
 🤖 **Spring AI & Backend System (NTT DATA)** API REST para otimização de processos integrando Spring AI e persistência com Spring Data JPA.  
 🔗 [Visualizar Repositório](https://github.com/nathalyebelinschi-code/dio-api-reconhecimento-fala)
 
-🔧 **Sistema de Service Desk (Java)** Gerenciamento de chamados com POO e aplicação de Design Patterns (Singleton, Factory e Strategy).  
-🔗 [Visualizar Repositório](https://github.com/nathalyebelinschi-code/service-desk-sla-java)
+🔧 **Service Desk System (Java)** Gerenciamento de chamados com POO e aplicação de Design Patterns (Singleton, Factory e Strategy).  
+🔗 [Visualizar Repositório](https://github.com/nathalyebelinschi-code/helpdesk-nana)
 
 🐍 **Automação de Tickets (Python)** Script para classificação automática de prioridade e geração de relatórios analíticos em CSV.  
 🔗 [Visualizar Repositório](https://github.com/nathalyebelinschi-code/ticket-automation-python)
@@ -51,4 +51,4 @@ Recentemente, concluí a certificação **Backend Java com Spring AI pela NTT DA
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NathalyeBelinschi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalye-belinschi)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NathalyeBelinschi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalye-belinschi)
