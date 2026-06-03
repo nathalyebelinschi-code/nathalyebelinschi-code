@@ -9,7 +9,7 @@
 
 ## 💡 O que eu entrego
 
-* **Desenvolvimento de APIs Robustas:** Foco em Java 17 e Spring Boot 3.
+* **Desenvolvimento de APIs REST:** com Java 17 e Spring Boot 3.
 * **Integração de IA:** Implementação de funcionalidades inteligentes com Spring AI.
 * **Arquitetura de Qualidade:** Aplicação de Design Patterns e Clean Code.
 * **Visão de Produto:** Experiência real com suporte SaaS, SLAs e resolução de causa raiz (RCA).
