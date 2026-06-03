@@ -15,7 +15,7 @@
 
 * **Desenvolvimento de APIs REST:** com Java 17 e Spring Boot 3.
 * **Integração de IA:** Implementação de funcionalidades inteligentes com Spring AI.
-* **Arquitetura de Qualidade:** Aplicação de Design Patterns e Clean Code.
+* **Aplicação de Design Patterns e princípios de Clean Code** 
 * **Visão de Produto:** Experiência real com suporte SaaS, SLAs e resolução de causa raiz (RCA).
 
 ---
