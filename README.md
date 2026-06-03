@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Positivo  
 💼 Experiência com Suporte Técnico N1 e N2 em ambientes SaaS  
-💻 Desenvolvedora Backend Java Certificada (Spring Boot 3 & Spring AI)
+💻 Desenvolvendo habilidades em Backend Java com Spring Boot e Spring AI
 
 ---
 
