@@ -3,7 +3,9 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Positivo  
 💼 Experiência com Suporte Técnico N1 e N2 em ambientes SaaS  
 💻 Desenvolvendo habilidades em Backend Java com Spring Boot e Spring AI
+
 ☁️ Formação complementar em Cloud Computing, Redes e Administração de Servidores (+600h)
+
 
 ---
 
