@@ -17,7 +17,7 @@
 
 ## 🧠 Sobre mim
 
-Possuo sólida experiência com análise e resolução de incidentes complexos em sistemas SaaS, atuando diretamente no cumprimento de SLAs e melhoria contínua. 
+Experiência em suporte técnico N1 e N2 em ambientes SaaS, atuando na análise e resolução de incidentes, cumprimento de SLAs e identificação de causas raiz.
 
 Recentemente, concluí a certificação **Backend Java com Spring AI pela NTT DATA**, onde desenvolvi soluções escaláveis unindo o poder do ecossistema Spring à Inteligência Artificial. Meu objetivo é unir essa bagagem de suporte técnico com a engenharia de software para criar sistemas resilientes e eficientes.
 
